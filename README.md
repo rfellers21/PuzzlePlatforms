@@ -7,3 +7,4 @@ Learning about UE4 networking
 * Widgets for FVector Properties
 * Sending the Platform Back
 * Setup a Simple Puzzle
+* Setup a Platform Trigger
